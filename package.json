@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/vickeej/Bee_Inc/issues"
   },
-  "homepage": "https://github.com/vickeej/Bee_Inc",
+  "homepage": "https://vickeej.github.io/Bee_Inc/index.php",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
